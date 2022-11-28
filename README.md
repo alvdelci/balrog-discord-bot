@@ -1,2 +1,2 @@
-# rafy-discord-bot
+# balrog-discord-bot
 Bot de músicas para discord
