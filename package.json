@@ -1,9 +1,9 @@
 {
-  "name": "rafy-discord-bot",
+  "name": "balrog-discord-bot",
   "version": "1.0.0",
   "description": "Bot de musicas para discord",
   "main": "index.js",
-  "repository": "https://github.com/alvdelci/rafy-discord-bot.git",
+  "repository": "https://github.com/alvdelci/balrog-discord-bot.git",
   "author": "Delcimario Alves <delcimariosantos@gmail.com>",
   "license": "MIT",
   "scripts": {
